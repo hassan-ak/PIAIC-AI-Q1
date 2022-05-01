@@ -1,0 +1,3 @@
+# AI for Everyone
+
+## Snaps
