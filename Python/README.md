@@ -9,7 +9,8 @@ Before Learning about python we need to know about some other things first.
 - Python Programming
   - [Python Programming](./Python%20Programming)
   - [MTA Exam](./MTA/)
-  - []()
+  - [Review Sessions and Workshops](./Review%20Sessions%20and%20Workshops/)
+  - [Assignments](./Assignments)
 
 ## 1. Programming with Python
 
