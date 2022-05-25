@@ -6,7 +6,10 @@ Before Learning about python we need to know about some other things first.
 - [Compiler and Interpreter](README.md#2-compiler-and-interpreter)
 - [What is Python?](README.md#3-what-is-python)
 - [Versions of Python](README.md#4-versions-of-python)
-- [Python Programming](Python%20Programming/README.md)
+- Python Programming
+  - [Python Programming](./Python%20Programming)
+  - [MTA Exam](./MTA/)
+  - []()
 
 ## 1. Programming with Python
 
