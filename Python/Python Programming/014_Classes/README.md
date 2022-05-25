@@ -50,4 +50,4 @@ class Car():
   car2 = Car()
 ```
 
-[<--- Previous Page](../README.md)
+[<--- Previous Page](../)
