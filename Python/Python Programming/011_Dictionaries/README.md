@@ -15,4 +15,4 @@
 - [Dictionary of Lists](011_07_Dictionary_of_Lists.ipynb)
 - [Dictionary of Dictionaries](011_08_Dictionary_of_Dictionaries.ipynb)
 
-[<--- Previous Page](../README.md)
+[<--- Previous Page](../)
