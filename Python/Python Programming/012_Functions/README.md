@@ -14,4 +14,4 @@
 - [Summary](012_12_Summary.ipynb)
   - [Functions file](calcu.py)
 
-[<--- Previous Page](../README.md)
+[<--- Previous Page](../)
