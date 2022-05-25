@@ -8,4 +8,4 @@
 - [Removing Elements from List](006_06_Removing_Elements_from_List.ipynb)
 - [Popping Elements from List](006_07_Popping_Elements_from_List.ipynb)
 
-[<--- Previous Page](../README.md)
+[<--- Previous Page](../)
